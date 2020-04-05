@@ -6,24 +6,24 @@ Oh, are we eady to become a High Qulaity StegnoGrapher eh?
 
 LSB is blah blah.
 
-**Why LSB is used**
+*Why LSB is used*
 > answer
 
-**Where LSB is effective**
+*Where LSB is effective*
 > answer
 
-**How to make LSB chall**
+*How to make LSB chall*
 > answer
 
-**Codes, tools, logic example**
+*Codes, tools, logic example*
 
 Example chall: Image link
 
-**Soltions**
+*Soltions*
 
 How to come at this solution, other solution
 
-**References**
+*References*
 1. Research
 2. Blog
 3. Other challs
@@ -32,24 +32,24 @@ How to come at this solution, other solution
 
 LSB is blah blah.
 
-**Why LSB is used**
+*Why LSB is used*
 > answer
 
-**Where LSB is effective**
+*Where LSB is effective*
 > answer
 
-**How to make LSB chall**
+*How to make LSB chall*
 > answer
 
-**Codes, tools, logic example**
+*Codes, tools, logic example*
 
 Example chall: Image link
 
-**Soltions**
+*Soltions*
 
 How to come at this solution, other solution
 
-**References**
+*References*
 1. Research
 2. Blog
 3. Other challs
