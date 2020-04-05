@@ -34,3 +34,5 @@ can use the repo also [Toolkit](https://github.com/DominicBreuker/stego-toolkit)
 > mp3 wav file you can use audacity
 + [ ] Check data in LSB/MSB/Xth Bit 
 > [SHIT](https://github.com/qll/shit) 
+
+## Medium Challenges
