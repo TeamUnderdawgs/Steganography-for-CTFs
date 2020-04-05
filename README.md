@@ -1,47 +1,24 @@
 # Steganography-for-CTFs
+with 💌 from [Team UnderDawgs](https://underdawgs.in/)
 
-In stegnography FOR CTF's data is hidden in form of 
+This repository contains all our learnings from solving steganography CTF challenges, reading researches etc. 
 
-- Image
-- Audio Files
+It can be considered as one stop solution for all your stego curiosities as well as a small milestone in your journey of becoming a high quality steganographer 😎
 
-- To solve such challenegs there are various tools and techniques we resolve them as
-step by step check but before we do that the tools can be manually downloaded or 
-can use the repo also [Toolkit](https://github.com/DominicBreuker/stego-toolkit)
+Repository is structured as follwing:
 
-## Easy Challenges
+| **Key**   | **Value**                                |
+|-----------|------------------------------------------|
+| Easy     | Stuff to give you a vibe of what stego is. |
+| Medium   | A bit level up stuff.                      |
+| Hard     | On path towards high quality.              |
+| MindFuck | A place for High quality stegnos.          |
 
-### 1.Check File type               
-`file image.png`
+## Why:
+For getting notes in one place and to share and give back something to awesome CTF community.
 
-### 2.Check Strings in file         
-`strings image.png || grep flag or something related`
+## Contributing
+For any contributions and suggestions, please use Github PRs and issue tracker.
 
-### 3.Check Metadata via exiftool   
-`exiftool image.png`  [Exiftool Commands](https://ninedegreesbelow.com/photography/exiftool-commands.html)
-
-### 4.Check zipped/compressed data  
-`binwalk -e image.png  `
-
-### 5.Check hidden data embeded     
-There are two methods
-* 1) You know password - `steghide extract -sf image.png` 
-* 2) Dont know password - `stegcracker image.png`
-### 1.broken image header     
-`hexedit image.png  `
-* a normal png header is ```00000000  89 50 4e 47 0d 0a 1a 0a  00 00 00 0d 49 48 44 52  |.PNG........IHDR|```
-* a JFIF header is       ``` 0x FF D8 FF E0 xx xx 4A 46 49 46 00 ```   
-
-### 6.Check Hidden between Images   
-`zsteg image.png`
-
-### 7.Check for text file           
-A txt file is given with paragraphs here stegsnow might help to retrive flag
-
-### 8.Check for Spectrogram         
-`mp3 wav file you can use audacity`
-
-### 9.Check data in LSB/MSB/Xth Bit 
-[SHIT](https://github.com/qll/shit) 
-
-## Medium Challenges
+## License
+This is published under WTFPL.
