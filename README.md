@@ -6,7 +6,7 @@ So in stegnography FOR CTF's data is hidden in form of
 
 - To solve such challenegs there are various tools and techniques we resolve them as
 step by step check but before we do that the tools can be manually downloaded or 
-can use the repo also (Toolkit)[https://github.com/DominicBreuker/stego-toolkit]
+can use the repo also [Toolkit](https://github.com/DominicBreuker/stego-toolkit)
 
 ## Easy Challenges
 + [ ] Check File type               
@@ -14,7 +14,7 @@ can use the repo also (Toolkit)[https://github.com/DominicBreuker/stego-toolkit]
 + [ ] Check Strings in file         
 > strings image.png || grep flag or something related
 + [ ] Check Metadata via exiftool   
-> exiftool image.png  (Exiftool Commands)[https://ninedegreesbelow.com/photography/exiftool-commands.html]
+> exiftool image.png  [Exiftool Commands](https://ninedegreesbelow.com/photography/exiftool-commands.html)
 + [ ] Check zipped/compressed data  
 > binwalk -e image.png  
 + [ ] Check hidden data embeded     
@@ -33,4 +33,4 @@ can use the repo also (Toolkit)[https://github.com/DominicBreuker/stego-toolkit]
 + [ ] Check for Spectrogram         
 > mp3 wav file you can use audacity
 + [ ] Check data in LSB/MSB/Xth Bit 
-> (SHIT)[https://github.com/qll/shit] 
+> [SHIT](https://github.com/qll/shit) 
