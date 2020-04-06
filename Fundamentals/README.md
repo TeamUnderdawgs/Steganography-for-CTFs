@@ -2,7 +2,7 @@
 
 **1. Images**
 
-In general sense, Images are just a represtation of anything which need to be replicated for later purpose. 
+In general sense, Images are just a representation of anything which need to be replicated for later purpose. 
 
 Examples:
 1. A phptograph is a 2D image, a replica of any thing that we store to use for later purposes.
@@ -13,7 +13,7 @@ Examples:
 
 In computing sense, an Image is just a mapping function, `F(x,y,z, ..)`. 
 
-If we consider a photograph Its a 2D function `F(x,y)` where each element's value is `value = F(x,y)` where `x,y` is a position in the image.
+If we consider a photograph, Its a 2D function `F(x,y)` where each element's value is `value = F(x,y)` where `x,y` is a position in the image.
 
 <p align="center">
   <img src="https://miro.medium.com/max/536/1*MR_w9xcb4hqKkw37BPdsVA.jpeg" />
