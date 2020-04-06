@@ -1,5 +1,3 @@
-[Toolkit](https://github.com/DominicBreuker/stego-toolkit)
-
 ## Easy Challenges
 - Image
 - Audio Files
