@@ -1,4 +1,3 @@
-
 # Easy 
 In these type of challenges the file mostly used are
 - Image
@@ -63,6 +62,7 @@ There are two methods
 
 You know password - steghide extract -sf image.png
 Dont know password - stegcracker image.png
+
 
 
 

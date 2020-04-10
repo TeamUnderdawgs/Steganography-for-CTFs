@@ -10,6 +10,7 @@ Repository is structured as follwing:
 | **Key**   | **Value**                                |
 |-----------|------------------------------------------|
 | [Fundamentals](https://github.com/TeamUnderdawgs/Steganography-for-CTFs/tree/master/Fundamentals)     | Founding Stones |
+| [Checklist](https://github.com/TeamUnderdawgs/Steganography-for-CTFs/tree/master/Checklist.md)     | Checklist for challenges |
 | [Easy](https://github.com/TeamUnderdawgs/Steganography-for-CTFs/tree/master/Easy)     | Stuff to give you a vibe of what stego is. |
 | [Medium](https://github.com/TeamUnderdawgs/Steganography-for-CTFs/tree/master/Medium)   | A bit level up stuff.                      |
 | [Hard](https://github.com/TeamUnderdawgs/Steganography-for-CTFs/tree/master/Hard)     | On path towards high quality.              |
